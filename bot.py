@@ -15,9 +15,9 @@ cid="UUX6OQ3DkcsbYNE6v8uQQuVA"
 #last video id wMuYiLby3-s
 lastvid="Z9WQy9uEY8M"
 # waiting time intervel in seconds
-intervel=5
+intervel=2
 #comment you need to post
-comment="Put your text here"
+comment="Tis is fire! Sounds like somethin my homie Dukey would make!"
 
 CLIENT_SECRETS_FILE = "./client_secrets.json"
 YOUTUBE_READ_WRITE_SSL_SCOPE = "https://www.googleapis.com/auth/youtube.force-ssl"
